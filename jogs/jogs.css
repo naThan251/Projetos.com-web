@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: rgb(218, 238, 255);
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background: #000;
+    width: 70px;
+    margin: 8px auto;
+}
